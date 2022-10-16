@@ -1,6 +1,6 @@
 ---
 title: Writing a New Post
-author: cotes
+author: <lch>
 date: 2022-10-15 13:56:00 +0800
 categories: [tutorial, post]
 tags: [tutorial,post]
